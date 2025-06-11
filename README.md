@@ -3,7 +3,7 @@ Senior Software Engineer | Project Lead
 📧 rafeekr0@gmail.com | 📞 +965-98763181
 🌐 LinkedIn: https://www.linkedin.com/in/rafeek-manchappara-57380119 | Skype: Rafeek M
 Professional Profile
-Accomplished and solutions-oriented Senior Software Engineer with over 12 years of experience designing, developing, and delivering scalable software applications across diverse sectors including manufacturing, construction, oil & gas, and healthcare. Expert in .NET technologies, Angular, SQL Server, and enterprise-level application development. Adept at leading technical teams, streamlining workflows, and translating business needs into high-performance, cost-effective solutions.
+Accomplished and solutions-oriented Senior Software Engineer with over 14 years of experience designing, developing, and delivering scalable software applications across diverse sectors including manufacturing, construction, oil & gas, and healthcare. Expert in .NET technologies, Angular, SQL Server, and enterprise-level application development. Adept at leading technical teams, streamlining workflows, and translating business needs into high-performance, cost-effective solutions.
 Core Competencies
 • Full Stack Application Development (.NET, Angular, SQL Server)
 • Enterprise Resource Planning (ERP) Systems
